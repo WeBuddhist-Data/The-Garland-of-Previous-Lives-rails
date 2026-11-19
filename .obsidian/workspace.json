@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-SOURCES/Text/jatakamala_segmented.md",
+                "file": "1-SOURCES/Text/སྐྱེས་པའི་རབས་ཀྱི་རྒྱུད།.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "jatakamala_segmented"
+              "title": "སྐྱེས་པའི་རབས་ཀྱི་རྒྱུད།"
             }
           }
         ]
@@ -182,8 +182,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -201,8 +200,8 @@
   },
   "active": "7d80736e68eb9f42",
   "lastOpenFiles": [
-    "1-SOURCES/Text/སྐྱེས་པའི་རབས་ཀྱི་རྒྱུད།.md",
     "1-SOURCES/Text/jatakamala_segmented.md",
+    "1-SOURCES/Text/སྐྱེས་པའི་རབས་ཀྱི་རྒྱུད།.md",
     "1-SOURCES/Text/སྐྱེས་པའི་རབས་ཀྱི་རྒྱུ།.md",
     "README.md",
     "gemini-scribe/Scheduled-Tasks/Runs",
