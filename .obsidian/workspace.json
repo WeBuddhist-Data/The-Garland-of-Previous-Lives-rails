@@ -199,8 +199,9 @@
   },
   "active": "7d80736e68eb9f42",
   "lastOpenFiles": [
-    "1-SOURCES/Text/jatakamala_segmented.md",
+    "1-SOURCES/Text/སྐྱེས་པའི་རབས་ཀྱི་རྒྱུད།ྚ.md",
     "1-SOURCES/Text/སྐྱེས་པའི་རབས་ཀྱི་རྒྱུད།.md",
+    "1-SOURCES/Text/jatakamala_segmented.md",
     "1-SOURCES/Text/སྐྱེས་པའི་རབས་ཀྱི་རྒྱུ།.md",
     "README.md",
     "gemini-scribe/Scheduled-Tasks/Runs",
@@ -233,7 +234,6 @@
     "4-SYSTEM/Skills/interlinear-gloss/SKILL.md",
     "4-SYSTEM/Skills/glossary-combine/SKILL.md",
     "4-SYSTEM/Skills/glossary-extract-raw/SKILL.md",
-    "4-SYSTEM/Skills/format-commentary/SKILL.md",
-    "4-SYSTEM/Skills/format-root-text/SKILL.md"
+    "4-SYSTEM/Skills/format-commentary/SKILL.md"
   ]
 }
